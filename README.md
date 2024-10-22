@@ -1,4 +1,4 @@
-# ¡Hola! Soy [David Galán] 👋
+# ¡Hola! Soy David Galán 👋
 
 Soy estudiante de **Desarrollo de Aplicaciones Web**. Me apasiona la programación. 
 
@@ -25,5 +25,5 @@ Soy un entusiasta del desarrollo web con un fuerte deseo de aprender y crecer en
 ## 📫 Contacto
 Puedes encontrarme en:
 - **Correo:** [davidgalvalle@gmail.com](mailto:davidgalvalle@gmail.com)
-- **LinkedIn:** [Tu perfil](www.linkedin.com/in/david-galán-valle-5a015630b)
+- **LinkedIn:** [David Galán](www.linkedin.com/in/david-galán-valle-5a015630b)
 ---
