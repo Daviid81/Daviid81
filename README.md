@@ -1,18 +1,29 @@
-### Hi there 👋
+# ¡Hola! Soy [David Galán] 👋
 
+Soy estudiante de **Desarrollo de Aplicaciones Web**. Me apasiona la programación. 
 
+## 🚀 Sobre Mí
+Soy un entusiasta del desarrollo web con un fuerte deseo de aprender y crecer en el campo. Estoy en busca de oportunidades para aplicar mis habilidades en proyectos del mundo real.
 
-<!--
-**Daviid81/Daviid81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Habilidades
 
-Here are some ideas to get you started:
+### Frontend
+- **HTML5**, **CSS**, **JavaScript**, **Angular**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- **Spring Boot**
+
+### Bases de datos
+- **MySQL**
+
+### Herramientas
+- **Git**, **GitHub**, **Visual Studio Code**, **Postman**
+
+## 🎓 Educación
+- **Módulo Superior en Desarrollo de Aplicaciones Web** - [IesAlmudeyne] (2023 - Presente)
+
+## 📫 Contacto
+Puedes encontrarme en:
+- **Correo:** [davidgalvalle@gmail.com](mailto:davidgalvalle@gmail.com)
+- **LinkedIn:** [Tu perfil](www.linkedin.com/in/david-galán-valle-5a015630b)
+---
