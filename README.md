@@ -18,12 +18,12 @@ Soy un entusiasta del desarrollo web con un fuerte deseo de aprender y crecer en
 
 ### Herramientas
 - **Git**, **GitHub**, **Visual Studio Code**, **Postman**
-
+na 
 ## 🎓 Educación
 - **Módulo Superior en Desarrollo de Aplicaciones Web** - [IesAlmudeyne] (2023 - Presente)
 
 ## 📫 Contacto
 Puedes encontrarme en:
 - **Correo:** [davidgalvalle@gmail.com](mailto:davidgalvalle@gmail.com)
-- **LinkedIn:** [David Galán](www.linkedin.com/in/david-galán-valle-5a015630b)
+- **LinkedIn:** [David Galán](https://www.linkedin.com/in/david-gal%C3%A1n-valle-5a015630b/)
 ---
