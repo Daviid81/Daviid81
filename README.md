@@ -24,6 +24,6 @@ na
 
 ## 📫 Contacto
 Puedes encontrarme en:
-- **Correo:** [davidgalvalle@gmail.com](mailto:davidgalvalle@gmail.com)
+- **Correo:** [davidgalvalle@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=davidgalvalle@gmail.com)
 - **LinkedIn:** [David Galán](https://www.linkedin.com/in/david-gal%C3%A1n-valle-5a015630b/)
 ---
