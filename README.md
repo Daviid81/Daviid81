@@ -1,9 +1,7 @@
 # ¡Hola! Soy David Galán 👋
 
-Soy estudiante de **Desarrollo de Aplicaciones Web**. Me apasiona la programación. 
-
 ## 🚀 Sobre Mí
-Soy un entusiasta del desarrollo web con un fuerte deseo de aprender y crecer en el campo. Estoy en busca de oportunidades para aplicar mis habilidades en proyectos del mundo real.
+Soy un estudiante de desarrollo web con un fuerte deseo de aprender y crecer en el campo de la informçatica.
 
 ## 🌟 Habilidades
 
