@@ -9,7 +9,7 @@ Soy un estudiante de desarrollo web con un fuerte deseo de aprender y crecer en 
 - **HTML5**, **CSS**, **JavaScript**, **Angular**
 
 ### Backend
-- **Spring Boot**
+- **Spring Boot**, **Java**
 
 ### Bases de datos
 - **MySQL**
